@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +24,6 @@
             <h2>Section Title 1</h2>
             <p> hello </p>
         </section>
-
         <section>
             <h2>this is title</h2>
             <p> this is parapgraph </p>
