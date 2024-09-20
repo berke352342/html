@@ -1,37 +1,114 @@
 <!doctype html>
-<html lang="en">
+<html lang= "en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="This is a example html structure.">
-    <title>this is example page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>My Favorite Song</title>
+
+</head> <!-- Ahmet Berke Carkci -->
 <body>
-    <header>
-        <h1>TIM HORTONS</h1>
-        <nav>
-            <ul>
-                <li><a href="#">example</a></li>
-                <li><a href="#">example</a></li>
-                <li><a href="#">example</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <main>
-        <section> 
-            <h2>Section Title 1</h2>
-            <p> hello </p>
-        </section>
-        <section>
-            <h2>this is title</h2>
-            <p> this is parapgraph </p>
-        </section>
-    </main>
+ <header>
 
-    <footer>
-        <p>&copy; tim hortons example footer </p>
-    </footer>
+   <h1> My Favorite Song </h1>
+
+ </header>
+
+  <main>
+   <section> <!-- we'll start section 1 -->
+     <h2> Lyrics </h2>
+     <p>
+        
+        Sabah yaptım krep krep 
+        Ne güzel oldu breh breh
+        Sardım yedip wrap wrap
+        Kafam düştü direkt direkt
+        Her yer olsada kezban tırrek 
+        Yatamam evde yatak döşek
+        Çıktım dışarı açtım trap
+        Kafam şimdi fişek fişek
+        Oh yeah geceler 
+        Cihangirli heceler
+        Elit foşik turistler
+        Sokaklar ve polisler
+        Viski döküp sevişelim
+        Natali diyor peşin alim 
+        Dedim tamam hadi canim
+        Bizde küvet yok duşakabin
+        
+        Oh yeah çılgın genç
+        Bu iş böyle Rolex Range 
+        Sizin tayfa b'tch b'tch
+        Bizim tayfa rich rich
+        
+        Keltoş babana koş
+        Trap böyle yapana hoş
+        La bebe koş la bebe coş
+        Siz windows ben macintosh
+        Mandingo Norm Ender
+        Benim kamış Dolce 
+        Oturan diyor mor minder
+        Hater’larım O.Ç.
+        
+        Yeah bu gece bu gece
+        Bizim böyle kafamız güzel
+        Bizim hep kafamız güzel
+        Böyle geziyo’z işte 
+        Polisler hep peşimizde bizim
+        Polisler niye peşimizde?
+        Bebeler Bebeler
+        
+        Popüler kültüre köle gibi yapış ama lafa gelince Marley, 2pac
+        Tabi yüzüne bir dövme demode bir Reggaeton’a bas autotune’u ol Lil Pump 
+        Ama beni H'ler gibi kariyerimle tehdit eder Pozitif’ten Elif Cemal 
+        Ben boyun eğmem soyunu disslerim çıldırtırım etnik fa$'stleri
+        Umrumda değil kuliste otlayan sürekli koklayan zifoslar
+        Ve beni dinler devrimci gençler, sizi yavşak lümpen Migos’lar
+        Kafası testis gibi sirk maymunları istiyorsa orman kanunları
+        O zaman güçlü zayıfı ezecek size yok sosis salam şırdan şırdan
+        
+        Hey hey hadi bakalım 
+        Gucci Gang Gucci Gang nasıl yapalım?
+        Mekanın sahibi geri geldi
+        Bebeleri pistten alalım alalım
+        Hey Hey hadi bakalım
+        M. Jane M. Jane nasıl yapalım?
+        Mekanın sahibi geri geldi 
+        Bebeleri pistten alalım alalım
+        
+        Özgürlük deyip uyuşmayın
+        Basını tizini sesisi açın
+        Hip Hop’u bok edecekseniz eğer
+        Polisten değil siz benden kaçın 
+        (Run!) 
+        Kraldan Kaçın
+        Sülalen için
+        Hıdıdı hıdıdı al b'tch! 
+
+    ----------------------------------------------------------------------------------------------------------------------------------
+    </p>
+     <p> Song: Mekanin Sahibi </p>
+     <p> Singer: Norm Ender </p>
+
+   </section>
+
+   <section>  <!-- we'll start section 2 -->
+     <h2> Music Video </h2>
+     <video controls>
+      <source src="video_url.mp4" type="video/mp4">
+     </video>
+   </section>
+
+   <section> <!-- we'll start section 3 -->
+    <iframe width="600" height="300" src="https://www.youtube.com/embed/z3wAjJXbYzA?si=vX3eC84rcmt1GFvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </section>
+  </main>
+
+  <footer>
+     <p> 2024 Mekanin Sahibi. All rights reserved. </p>
+
+  </footer>
+
 </body>
 </html>
