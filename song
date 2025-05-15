@@ -1,113 +1,84 @@
 <!doctype html>
 <html lang= "en">
 <head>
+    
+    <meta charset= "utf-8">
+    <meta name= "viewport" content= "width=device-width, initial-scale=1">
+    <meta name= "description" content="So thats my favorite song">
 
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>My Favorite Song</title>
+ <title> My Favorite Song! </title>
 
 </head> <!-- Ahmet Berke Carkci -->
 <body>
-
  <header>
 
    <h1> My Favorite Song </h1>
+   <p> It's a really good song..</p>
 
  </header>
 
   <main>
-   <section> <!-- we'll start section 1 -->
+   <section> <!-- we'll start section about lyrics-->
      <h2> Lyrics </h2>
      <p>
-        
-        Sabah yaptım krep krep 
-        Ne güzel oldu breh breh
-        Sardım yedip wrap wrap
-        Kafam düştü direkt direkt
-        Her yer olsada kezban tırrek 
-        Yatamam evde yatak döşek
-        Çıktım dışarı açtım trap
-        Kafam şimdi fişek fişek
-        Oh yeah geceler 
-        Cihangirli heceler
-        Elit foşik turistler
-        Sokaklar ve polisler
-        Viski döküp sevişelim
-        Natali diyor peşin alim 
-        Dedim tamam hadi canim
-        Bizde küvet yok duşakabin
-        
-        Oh yeah çılgın genç
-        Bu iş böyle Rolex Range 
-        Sizin tayfa b'tch b'tch
-        Bizim tayfa rich rich
-        
-        Keltoş babana koş
-        Trap böyle yapana hoş
-        La bebe koş la bebe coş
-        Siz windows ben macintosh
-        Mandingo Norm Ender
-        Benim kamış Dolce 
-        Oturan diyor mor minder
-        Hater’larım O.Ç.
-        
-        Yeah bu gece bu gece
-        Bizim böyle kafamız güzel
-        Bizim hep kafamız güzel
-        Böyle geziyo’z işte 
-        Polisler hep peşimizde bizim
-        Polisler niye peşimizde?
-        Bebeler Bebeler
-        
-        Popüler kültüre köle gibi yapış ama lafa gelince Marley, 2pac
-        Tabi yüzüne bir dövme demode bir Reggaeton’a bas autotune’u ol Lil Pump 
-        Ama beni H'ler gibi kariyerimle tehdit eder Pozitif’ten Elif Cemal 
-        Ben boyun eğmem soyunu disslerim çıldırtırım etnik fa$'stleri
-        Umrumda değil kuliste otlayan sürekli koklayan zifoslar
-        Ve beni dinler devrimci gençler, sizi yavşak lümpen Migos’lar
-        Kafası testis gibi sirk maymunları istiyorsa orman kanunları
-        O zaman güçlü zayıfı ezecek size yok sosis salam şırdan şırdan
-        
-        Hey hey hadi bakalım 
-        Gucci Gang Gucci Gang nasıl yapalım?
-        Mekanın sahibi geri geldi
-        Bebeleri pistten alalım alalım
-        Hey Hey hadi bakalım
-        M. Jane M. Jane nasıl yapalım?
-        Mekanın sahibi geri geldi 
-        Bebeleri pistten alalım alalım
-        
-        Özgürlük deyip uyuşmayın
-        Basını tizini sesisi açın
-        Hip Hop’u bok edecekseniz eğer
-        Polisten değil siz benden kaçın 
-        (Run!) 
-        Kraldan Kaçın
-        Sülalen için
-        Hıdıdı hıdıdı al b'tch! 
+        Gitgide trajedi olmuş rotası<br>
+        Bu koskoca bir şehir dolmuş kotası<br>
+        Solmuş renkler içinde çiçekler<br>
+        Bir gün de olsa mutlu kelebekler<br>
+        Yüce Rabbim ne güzel de yaratmış<br>
+        Bütün acısını kozasında bırakmış<br>
+        Küçükken hepsini kıskanırdım<br>
+        Ne değişti söyleyim; Hiçbir şey<br>
+        Korkularını ufak ufak atıyorsun<br>
+        Umutlarınla tek başına kalınca<br>
+        Herkesi yavaş yavaş tanıyorsun<br>
+        Pastadaki mum sayısı çoğalınca<br>
+        Sözler hep aynı, yüzler değişiyor<br>
+        Yarını düşün ben o yoldan çıktım<br>
+        İnsan neden hep aynı şeyi deniyor<br>
+        Konuşma, sus bu oyundan bıktım<br><br>
 
-    ----------------------------------------------------------------------------------------------------------------------------------
+        Bak biri kollarımda uyuyup gitmem diyordu, gitti<br>
+        Biri can verip de ölsem bitmez diyordu, bitti<br>
+        Yüreğim ses etmez inanır, sözler şerefsiz oldu<br>
+        Bu yolun sonu yok, ne olur söz verme sen de aşkım<br><br>
+
+        İnadı bırak, sonucunu bilmelisin<br>
+        Kısa cümlemin nefesleri dardır<br>
+        Kalbimi kırma, zoru denemelisin<br>
+        Her kilidin bir anahtarı vardır<br>
+        Durgun, yorgun, daha yolun yarısı<br>
+        Geride kalan birkaç duvar yazısı<br>
+        Umutsuz olmaz unutsa hayatta<br>
+        Her şeye rağmen bu ölü ayakta<br>
+        Boşvermek gerekiyor ya bazen<br>
+        Gereksizce rap gündemindeyim<br>
+        Yıllar geçsin içimdeki mahzen<br>
+        Dibine çeken acıların demindeyim<br>
+        Sözler ekledim, bekledim çok<br>
+        Kimse gelmedi ve ben hep oradaydım<br>
+        Sensiz tek bir hayalim yok<br>
+        Diyenlerin hayali hiç olmadı, saydım<br><br>
+
+        Bak biri kollarımda uyuyup gitmem diyordu, gitti<br>
+        Biri can verip de ölsem bitmez diyordu, bitti<br>
+        Yüreğim ses etmez inanır, sözler şerefsiz oldu<br>
+        Bu yolun sonu yok, ne olur söz verme sen de aşkım<br>
+      
+
+----------------------------------------------------------------------------------------------------------------------------------
     </p>
-     <p> Song: Mekanin Sahibi </p>
+     <p> Song: Sözler Şerefsiz Oldu </p>
      <p> Singer: Norm Ender </p>
-
    </section>
 
-   <section>  <!-- we'll start section 2 -->
-     <h2> Music Video </h2>
-     <video controls>
-      <source src="video_url.mp4" type="video/mp4">
-     </video>
-   </section>
-
-   <section> <!-- we'll start section 3 -->
-    <iframe width="600" height="300" src="https://www.youtube.com/embed/z3wAjJXbYzA?si=vX3eC84rcmt1GFvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <section> <!-- we'll start section about my favorite song -->
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/b9QApLJ3TI0?si=XfVi_V9-CEDmsoXG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    </section>
   </main>
 
   <footer>
-     <p> 2024 Mekanin Sahibi. All rights reserved. </p>
-
+     <p> 2013 Norm Ender. All rights reserved. </p>
   </footer>
 
 </body>
